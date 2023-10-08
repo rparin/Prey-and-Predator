@@ -19,7 +19,7 @@ A Prey and Predator Simulation I made in C++ using the Simple and Fast Multimedi
 
 <div align="center">
 
-<img max-height=100 alt="demo of Prey and Pred Sim" src="https://raw.githubusercontent.com/rparin/Prey-and-Predator/main/preview/Demo.gif">
+<img max-height=50 alt="demo of Prey and Pred Sim" src="https://raw.githubusercontent.com/rparin/Prey-and-Predator/main/preview/Demo.gif">
 
 </div>
 
